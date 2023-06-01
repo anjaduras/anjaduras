@@ -5,10 +5,6 @@
 
 - 📫 How to reach me **anna@duras.org**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/annaduras/](https://www.linkedin.com/in/annaduras/)
-
-- ⚡ Fun fact: **I love cats:)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/annaduras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annaduras" height="30" width="40" /></a>
