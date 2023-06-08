@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **design ideas**
 
-- 📫 How to reach me **anna@duras.org**
+- 📫 How to reach me: **anna@duras.org**
 
 - ⚡ Fun fact: **Linux is actually way cooler than Windows! Change my mind:)**
 
