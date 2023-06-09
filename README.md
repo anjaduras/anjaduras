@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **anna@duras.org**
 
-- ⚡ Fun fact: **Linux is actually way cooler than Windows! Change my mind:)**
+- ⭐️ Fun fact: **Linux is actually way cooler than Windows! Change my mind:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
