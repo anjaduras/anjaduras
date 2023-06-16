@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaduras&label=Profile%20views&color=0e75b6&style=flat" alt="anjaduras" /> </p>
 
-- 🔭 I’m now working on **USL Website**
+- 🔭 I’m now working on **USL Website Project**
 
 - 🌱 I’m currently learning **React.js**
 
