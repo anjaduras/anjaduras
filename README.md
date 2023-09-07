@@ -7,7 +7,7 @@
   
 - 🔭 I’m working on **DLP Internship Diary** 
 
-- 🌱 I’m currently learning **?*
+- 🌱 I’m currently learning **?**
 
 - 💬 Ask me about **design ideas**
 
