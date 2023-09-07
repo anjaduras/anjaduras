@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaduras&label=Profile%20views&color=0e75b6&style=flat" alt="anjaduras" /> </p>
 
-- 🔭 I’m working on **?** 
+- 🔭 I’m working on **DLP Internship Diary** 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **?*
 
 - 💬 Ask me about **design ideas**
 
