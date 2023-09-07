@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaduras&label=Profile%20views&color=0e75b6&style=flat" alt="anjaduras" /> </p>
 
+- 💻 My current position is **DLP Interns at ReDI School of Digital Integration Munich**
+  
 - 🔭 I’m working on **DLP Internship Diary** 
 
 - 🌱 I’m currently learning **?*
