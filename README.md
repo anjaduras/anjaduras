@@ -5,7 +5,7 @@
 
 - 💻 My current position is **DLP Interns at ReDI School of Digital Integration Munich**
   
-- 🔭 I’m working on **DLP Internship Diary** 
+- 🔭 I’m working on **Personal Website** 
 
 - 🌱 I’m currently learning **?**
 
