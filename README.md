@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **?**
 
+- 🌱 I’m currently reading **?**
+
 - 💬 Ask me about **design ideas**
 
 - 📫 How to reach me: **anna@duras.org**
