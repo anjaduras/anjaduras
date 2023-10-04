@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **?**
 
-- 📚 I’m currently reading **?**
+- 📚 I’m currently reading **Wind-Up Bird Chronicle**
 
 - 💬 Ask me about **design ideas**
 
