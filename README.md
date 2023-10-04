@@ -7,8 +7,6 @@
   
 - 🔭 I’m working on **Personal Website** 
 
-- 🌱 I’m currently learning **?**
-
 - 📚 I’m currently reading **The Wind-Up Bird Chronicle**
 
 - 💬 Ask me about **design ideas**
