@@ -7,7 +7,7 @@
   
 - 🔭 I’m working on **Personal Website** 
 
-- 📚 I’m currently reading **The Wind-Up Bird Chronicle**  (My progress so far is  ![](https://geps.dev/progress/85) )
+- 📚 I’m currently rdone with **The Wind-Up Bird Chronicle**  (![](https://geps.dev/progress/100))
 
 - 💬 Ask me about **design ideas**
 
