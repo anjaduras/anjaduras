@@ -7,7 +7,7 @@
   
 - 🔭 I’m working on **Personal Website** 
 
-- 📚 I’m currently reading **A Man Called Ove: A Novel**  ![](https://geps.dev/progress/3)
+- 📚 I’m currently reading **A Man Called Ove: A Novel**  ![](https://geps.dev/progress/4)
 
 - 💬 Ask me about **design ideas**
 
