@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anja</h1>
 <h3 align="center">I'm a frontend developer & YouTube creator!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaduras&label=Profile%20views&color=0e75b6&style=flat" alt="anjaduras" /> </p>
-
 - 💻 My current position is **Project Manager at ReDI School of Digital Integration Munich**
   
 - 🔭 I’m working on **Personal Website** 
