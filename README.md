@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anja</h1>
+<h1 align="center">Hej 👋, I'm Anja</h1>
 <h3 align="center">I'm a frontend developer & YouTube creator!</h3>
 
 - 💻 My current position is **Project Manager at ReDI School of Digital Integration Munich**
