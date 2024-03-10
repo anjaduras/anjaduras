@@ -5,7 +5,7 @@
   
 - ✍🏼 I’m working on **Personal Portfolio** 
 
-- 📚 I’m currently reading **A Man Called Ove: A Novel**  ![](https://geps.dev/progress/5)
+- 📚 I’m currently reading **A Man Called Ove: A Novel**  ![](https://geps.dev/progress/8)
 
 - 💬 Ask me about **design ideas**
 
