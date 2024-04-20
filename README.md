@@ -3,7 +3,7 @@
 
 - 💻 My current position is **Project Manager at ReDI School of Digital Integration Munich**
 
-- 📚 I’m currently doing a **Python Course**  ![](https://geps.dev/progress/16)
+- 📚 I’m currently doing a **Python Course**  ![](https://geps.dev/progress/18)
 
 - 💬 Ask me about **design ideas**
 
