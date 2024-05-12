@@ -5,7 +5,7 @@
 
 - 📚 I’m currently doing a **Python Course**  ![](https://geps.dev/progress/28)
 
-- 💬 Ask me about **design ideas**
+- 💬 Ask me about **learning strategies**
 
 - 📫 How to reach me: **anna@duras.org**
 
