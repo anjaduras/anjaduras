@@ -1,11 +1,11 @@
 <h1 align="center">Hej 👋, I'm Anja</h1>
 <h3 align="center">I'm a coder & YouTube creator!</h3>
 
-- 💻 My current position is ****
+- 💻 My current position is **Azubi at Coperion**
 
-- 📚 I’m currently doing a ****  
+- 📚 I’m currently learning **SQL**  
 
-- 💬 Ask me about ****
+- 💬 Ask me about **spontanios planning**
 
 - 📫 How to reach me: **anna@duras.org**
 
