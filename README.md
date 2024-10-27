@@ -1,15 +1,13 @@
 <h1 align="center">Hej 👋, I'm Anja</h1>
 <h3 align="center">I'm a coder & YouTube creator!</h3>
 
-- 💻 My current position is **Project Manager at ReDI School of Digital Integration Munich**
+- 💻 My current position is ****
 
-- 📚 I’m currently doing a **Python Course**  ![](https://geps.dev/progress/31)
+- 📚 I’m currently doing a ****  
 
-- 💬 Ask me about **learning strategies**
+- 💬 Ask me about ****
 
 - 📫 How to reach me: **anna@duras.org**
-
-- ⭐️ Fun fact: **Linux is actually way cooler than Windows! Change my mind:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
