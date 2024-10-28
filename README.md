@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **SQL**  
 
-- 💬 Ask me about **spontanios planning**
+- 💬 Ask me about **spontaneous planning**
 
 - 📫 How to reach me: **anna@duras.org**
 
